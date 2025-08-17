@@ -1,0 +1,9 @@
+{
+  "name": "FieldSync",
+  "short_name": "FieldSync",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Προσωπική εφαρμογή καταγραφής καλλιεργητικών εργασιών",
+  "icons": []
+}
